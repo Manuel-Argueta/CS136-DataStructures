@@ -6,10 +6,6 @@ public class ClassNotes {
             System.out.println(i);
         }
    }
-    public static int[] mergeSort(int[] arr,int p) { 
-        int[] t = new int[arr.length];
-        
-    }
     // public static int[] selectionSort(int[] arr) {
     //     for (int i = 0; i < arr.length-1; i++) {
     //         int min = Integer.MIN_VALUE, minI = 0;
